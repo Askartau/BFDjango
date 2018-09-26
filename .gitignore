@@ -367,5 +367,5 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-.myenv
-myenv/
+.myvenv
+myvenv/
